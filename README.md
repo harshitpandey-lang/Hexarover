@@ -1,4 +1,7 @@
 <img width="1983" height="793" alt="f2d3df05-7226-448e-9f9a-de00a45a2482" src="https://github.com/user-attachments/assets/4ba9e6c9-28a8-44a2-be7e-cfc31570c34d" />
+
+---
+
 # 🤖 HexaRover
 
 > **An intelligent six-wheel exploration rover designed for navigation, terrain traversal, and real-time environmental awareness.**
