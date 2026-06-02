@@ -1,28 +1,27 @@
-<img width="1983" height="793" alt="f2d3df05-7226-448e-9f9a-de00a45a2482" src="https://github.com/user-attachments/assets/4ba9e6c9-28a8-44a2-be7e-cfc31570c34d" />
 
 ---
 
-# 🤖 HexaRover
+# HexaRover
 
-> **An intelligent six-wheel exploration rover designed for navigation, terrain traversal, and real-time environmental awareness.**
+> This is an intelligent six wheeled rover inspired from the mars exploration rover and it will be same in design and will be lego based and the main feature of the design is going to be the ease of recreatibility of the complete project. The electronics are replacable while the cadd designes of the legos will be available here with dimesions and links. The desines of the legos can also be used to creat any other project in future also.
 
 ---
 
-## 📖 Overview
+## Overview
 
 HexaRover is a modular robotics platform built to explore and operate in environments that are difficult, hazardous, or inaccessible to humans. The project integrates embedded electronics, computer vision, wireless communication, and mechanical design into a single scalable rover architecture.
 
-Designed with reliability and adaptability in mind, HexaRover serves as a foundation for experimentation in autonomous systems, remote operations, and intelligent robotics.
+Designed with reliability and adaptability in mind, HexaRover serves as a foundation for experimentation in autonomous systems, remote operations, and intelligent robotics. This is a kind of gateway to enter into lego based bot creation by anybody and embedded systems.
 
 ---
 
-## 🎯 Mission
+## Mission
 
-To develop an affordable, robust, and intelligent rover capable of assisting in exploration, inspection, research, and educational applications while providing a platform for future autonomous navigation technologies.
+To develop a six wheel functional rover which is very cool both in desines and in working. The electronics can be replaced by anybody while the main designes and mechanical parts can be 3d printed by anyone. The recretion of the rover is very easy and the 3d parts can also be used to creat other project in future as well.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 * Six-Wheel Drive Mobility System
 * Modular Electronics Architecture
@@ -37,7 +36,7 @@ To develop an affordable, robust, and intelligent rover capable of assisting in 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 HexaRover/
@@ -55,7 +54,7 @@ HexaRover/
 
 ---
 
-## 🚀 Future Goals
+## Future Goals
 
 * Autonomous Navigation
 * Terrain Mapping
@@ -66,7 +65,7 @@ HexaRover/
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome.
 
@@ -82,7 +81,25 @@ Please ensure that all contributions align with the project's objectives and mai
 
 ---
 
-## 📜 License
+## Contact And Suggestions
+
+Nerds interested in connecting and exploring more can connect with me give valuable advice take help and suggestions from the followings
+
+Linkedin
+Mail
+Instagram
+Slack
+Lapse
+
+### Access The Parts From Here-
+
+CAD
+Wirrings
+BOM
+Jornel
+Steps To Recreate
+
+## License
 
 This project is licensed under the MIT License.
 
@@ -92,7 +109,7 @@ See the LICENSE file for complete details.
 
 <div align="center">
 
-### HexaRover XR-01
+### HexaRover
 
 *Exploring the Unknown.*
 
