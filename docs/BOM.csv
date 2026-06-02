@@ -1,26 +1,22 @@
-Category,Subcategory,Component,Manufacturer/Seller,Quantity,Unit Price (INR),Subtotal (INR),Status,Source
-Control System,Main Controller,Raspberry Pi 4 Model B,Existing,1,0,0,Owned,User Inventory
-Control System,Radio Controller,FlySky FS-i6 Transmitter,Existing,1,0,0,Owned,User Inventory
-Control System,Radio Receiver,FlySky Receiver,Existing,1,0,0,Owned,User Inventory
-Control System,Storage,32GB Class 10 MicroSD Card,Existing,1,0,0,Owned,User Inventory
-Motor Drive,Motor Driver,BTS7960 43A H-Bridge Driver,Robu.in,2,303,606,Planned,https://robu.in
-Motor Drive,Drive Motor,GB37-555 12V 100RPM Metal Geared Motor,Quartz Components,6,608,3648,Planned,Quartz Components
-Steering,Steering Servo,TowerPro MG946R Metal Gear Servo,Robu.in,4,438,1752,Planned,https://robu.in
-Power,Battery,11.1V 5000mAh 3S2P Li-Ion Battery Pack,Robu.in,1,1599,1599,Planned,https://robu.in
-Power,Connector,XT60 Connector Pair,Robu.in,1,95,95,Planned,https://robu.in
-Power,Voltage Regulator,LM2596 Buck Converter,Robu.in,1,109,109,Planned,https://robu.in
-Power,UBEC,REES52 UBEC 5V 5A,Amazon India,1,664,664,Planned,https://amazon.in
-Navigation,GPS Module,NEO-6M GPS Module,Robu.in,1,269,269,Planned,https://robu.in
-Sensors,IMU,MPU6050 GY-521 Module,Amazon India,1,244,244,Planned,https://amazon.in
-Sensors,Distance Sensor,HC-SR04 Ultrasonic Sensor,Amazon India,2,134,268,Planned,https://amazon.in
-Vision,Camera,Raspberry Pi 5MP Camera Board,Amazon India,1,365,365,Planned,https://amazon.in
-Wheels,Wheel Set,110mm x 40mm Rubber Wheels (4 Pack),Amazon India,1,949,949,Planned,https://amazon.in
-Wheels,Motor+Wheel Combo,100RPM Metal Geared Motor with Wheel,Amazon India,2,208,416,Planned,https://amazon.in
-Wiring,Jumper Wires,Male-Male Jumper Wires 30cm,Robu.in,1,63,63,Planned,https://robu.in
-Wiring,Jumper Wires,Male-Female Jumper Wires 30cm,Robu.in,2,57,114,Planned,https://robu.in
-Wiring,Jumper Wires,Male-Male Jumper Wires 10cm,Robu.in,1,44,44,Planned,https://robu.in
-Wiring,Servo Extension,15cm Servo Extension Cable,Robu.in,4,50,200,Planned,https://robu.in
-Wiring,Heat Shrink,PVC Heat Shrink Sleeve 93mm,Robu.in,1,31,31,Planned,https://robu.in
-,,,,,,,,
-TOTAL PROJECT COST,,,,,11042,11042,,
+Category,Supplier,Component,Quantity,Unit Price INR,Subtotal INR,Purchase Link
+Drive System,Quartz Components,GB37-555 12V DC Gear Motor 300RPM,6,608,3648,https://quartzcomponents.com/products/gb37-555-12v-dc-gear-motor-300rpm?variant=45639417790698
+Drive System,Quartz Components,Double BTS7960 43A H-Bridge Driver,2,273,546,https://quartzcomponents.com/products/double-bts7960-43a-h-bridge-high-power-stepper-motor-driver-module?variant=45726374428906
+Steering System,Robu.in,TowerPro MG946R Digital Metal Gear Servo,4,438,1752,https://robu.in/product/towerpro-mg946r-digital-high-torque-metal-gear-servo-motor/
+Wheel System,Sun Electronics,11cm x 4cm High Load Robotic Wheel,6,140,840,https://sunelectronics.co.in/product/robotic-wheel-for-high-load-11cm-x-4cm-wheel-for-robotfor-engineering-project/
+Power System,Quartz Components,WATTNINE 12V 7.2Ah Li-Ion Battery Pack,1,1652,1652,https://quartzcomponents.com/products/12v-7200mah-li-ion-battery-pack-with-1-year-warranty?variant=43848199045354
+Power System,Quartz Components,Bluesky Mini 5V 3A UBEC,1,198,198,https://quartzcomponents.com/products/bluesky-mini-5v-3a-ubec-for-ptz-gimbals-and-rc-drones?variant=44893689217258
+Power System,Quartz Components,LM2596 Buck Converter with Voltmeter,1,108,108,https://quartzcomponents.com/products/lm2596-2a-buck-step-down-power-converter-module-dc-4-40v-to-1-3-37v-with-led-voltmeter?variant=45005826654442
+Power System,Quartz Components,XT60 Connector Pair,2,26,52,https://quartzcomponents.com/products/xt60?variant=42158646624490
+Navigation,Quartz Components,NEO6MV2 GPS Module,1,235,235,https://quartzcomponents.com/products/neo6mv2-gps-module-with-flight-controller?variant=31898002980999
+Sensors,Quartz Components,MPU6050 Gyroscope Accelerometer Module,1,156,156,https://quartzcomponents.com/products/mpu6050-gyroscope-accelerometer-sensor?variant=31897777733767
+Sensors,Quartz Components,HC-SR04 Ultrasonic Sensor,4,72,288,https://quartzcomponents.com/products/hc-sr04-ultrasonic-sensor-module?variant=31897769410695
+Vision System,Sun Electronics,Raspberry Pi 3 Camera 5MP,1,260,260,https://sunelectronics.co.in/product/raspberry-pi-3-camera-5-mp/
+Wiring,Quartz Components,Jumper Wire Combo Pack (120pcs),1,145,145,https://quartzcomponents.com/products/jumper-wires-combo-pack-male-to-male-male-to-female-female-to-female-set-of-120?variant=45062852903146
+Wiring,Robu.in,Servo Extension Cable 15cm,4,50,200,https://robu.in/product/safeconnect-twisted-15cm-22awg-servo-lead-extension-jr-cable-with-self-locking-hook/
+Wiring,Robu.in,PVC Heat Shrink Sleeve 93mm,1,31,31,https://robu.in/product/pvc-heat-shrink-sleeve-93mm-orange/
+Control System,User Inventory,Raspberry Pi 4 Model B,1,0,0,Already Owned
+Control System,User Inventory,FlySky FS-i6 Transmitter,1,0,0,Already Owned
+Control System,User Inventory,FlySky Receiver,1,0,0,Already Owned
+Control System,User Inventory,32GB Class 10 MicroSD Card,1,0,0,Already Owned
+TOTAL,,,,,10111,
 
