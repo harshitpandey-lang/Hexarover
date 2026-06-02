@@ -1,1 +1,26 @@
+Category,Subcategory,Component,Manufacturer/Seller,Quantity,Unit Price (INR),Subtotal (INR),Status,Source
+Control System,Main Controller,Raspberry Pi 4 Model B,Existing,1,0,0,Owned,User Inventory
+Control System,Radio Controller,FlySky FS-i6 Transmitter,Existing,1,0,0,Owned,User Inventory
+Control System,Radio Receiver,FlySky Receiver,Existing,1,0,0,Owned,User Inventory
+Control System,Storage,32GB Class 10 MicroSD Card,Existing,1,0,0,Owned,User Inventory
+Motor Drive,Motor Driver,BTS7960 43A H-Bridge Driver,Robu.in,2,303,606,Planned,https://robu.in
+Motor Drive,Drive Motor,GB37-555 12V 100RPM Metal Geared Motor,Quartz Components,6,608,3648,Planned,Quartz Components
+Steering,Steering Servo,TowerPro MG946R Metal Gear Servo,Robu.in,4,438,1752,Planned,https://robu.in
+Power,Battery,11.1V 5000mAh 3S2P Li-Ion Battery Pack,Robu.in,1,1599,1599,Planned,https://robu.in
+Power,Connector,XT60 Connector Pair,Robu.in,1,95,95,Planned,https://robu.in
+Power,Voltage Regulator,LM2596 Buck Converter,Robu.in,1,109,109,Planned,https://robu.in
+Power,UBEC,REES52 UBEC 5V 5A,Amazon India,1,664,664,Planned,https://amazon.in
+Navigation,GPS Module,NEO-6M GPS Module,Robu.in,1,269,269,Planned,https://robu.in
+Sensors,IMU,MPU6050 GY-521 Module,Amazon India,1,244,244,Planned,https://amazon.in
+Sensors,Distance Sensor,HC-SR04 Ultrasonic Sensor,Amazon India,2,134,268,Planned,https://amazon.in
+Vision,Camera,Raspberry Pi 5MP Camera Board,Amazon India,1,365,365,Planned,https://amazon.in
+Wheels,Wheel Set,110mm x 40mm Rubber Wheels (4 Pack),Amazon India,1,949,949,Planned,https://amazon.in
+Wheels,Motor+Wheel Combo,100RPM Metal Geared Motor with Wheel,Amazon India,2,208,416,Planned,https://amazon.in
+Wiring,Jumper Wires,Male-Male Jumper Wires 30cm,Robu.in,1,63,63,Planned,https://robu.in
+Wiring,Jumper Wires,Male-Female Jumper Wires 30cm,Robu.in,2,57,114,Planned,https://robu.in
+Wiring,Jumper Wires,Male-Male Jumper Wires 10cm,Robu.in,1,44,44,Planned,https://robu.in
+Wiring,Servo Extension,15cm Servo Extension Cable,Robu.in,4,50,200,Planned,https://robu.in
+Wiring,Heat Shrink,PVC Heat Shrink Sleeve 93mm,Robu.in,1,31,31,Planned,https://robu.in
+,,,,,,,,
+TOTAL PROJECT COST,,,,,11042,11042,,
 
