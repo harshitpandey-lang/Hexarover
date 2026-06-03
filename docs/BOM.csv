@@ -4,7 +4,6 @@ Drive System,Quartz Components,Double BTS7960 43A H-Bridge Driver,2,273,546,http
 Steering System,Robu.in,TowerPro MG946R Digital Metal Gear Servo,4,438,1752,https://robu.in/product/towerpro-mg946r-digital-high-torque-metal-gear-servo-motor/
 Wheel System,Sun Electronics,11cm x 4cm High Load Robotic Wheel,6,140,840,https://sunelectronics.co.in/product/robotic-wheel-for-high-load-11cm-x-4cm-wheel-for-robotfor-engineering-project/
 Power System,Quartz Components,WATTNINE 12V 7.2Ah Li-Ion Battery Pack,1,1652,1652,https://quartzcomponents.com/products/12v-7200mah-li-ion-battery-pack-with-1-year-warranty?variant=43848199045354
-Power System,Quartz Components,Bluesky Mini 5V 3A UBEC,1,198,198,https://quartzcomponents.com/products/bluesky-mini-5v-3a-ubec-for-ptz-gimbals-and-rc-drones?variant=44893689217258
 Power System,Quartz Components,LM2596 Buck Converter with Voltmeter,1,108,108,https://quartzcomponents.com/products/lm2596-2a-buck-step-down-power-converter-module-dc-4-40v-to-1-3-37v-with-led-voltmeter?variant=45005826654442
 Power System,Quartz Components,XT60 Connector Pair,2,26,52,https://quartzcomponents.com/products/xt60?variant=42158646624490
 Navigation,Quartz Components,NEO6MV2 GPS Module,1,235,235,https://quartzcomponents.com/products/neo6mv2-gps-module-with-flight-controller?variant=31898002980999
@@ -18,5 +17,8 @@ Control System,User Inventory,Raspberry Pi 4 Model B,1,0,0,Already Owned
 Control System,User Inventory,FlySky FS-i6 Transmitter,1,0,0,Already Owned
 Control System,User Inventory,FlySky Receiver,1,0,0,Already Owned
 Control System,User Inventory,32GB Class 10 MicroSD Card,1,0,0,Already Owned
-TOTAL,,,,,10111,
-
+Power System,Amazon,15A ATC Automotive Blade Fuse,1,80,80,https://amzn.in/d/08DSf7vK
+Power System,Amazon,DC Power Jack Connector Set (10 Male + 10 Female),1,299,299,https://amzn.in/d/0b6YXhBp
+Power System,Amazon,RC Servo BEC UBEC Voltage Regulator 5V 15A,1,1672,1672,https://amzn.in/d/0f6fojOy
+Control System,Quartz Components,ESP32 30 Pin CP2102 Development Board,1,385,385,https://quartzcomponents.com/products/esp32-30-pin-development-board-with-wi-fi-and-bluetooth
+TOTAL,,,,,12547,
