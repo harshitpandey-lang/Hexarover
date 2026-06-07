@@ -18,7 +18,7 @@ Designed with reliability and adaptability in mind, HexaRover serves as a founda
 ## Inspiration 
 
 I was truly amazed and inpsired from the mars rover made by nasa for the mars exploration and its replica by nasa-jpl which github is given here https://github.com/nasa-jpl/open-source-rover. The rovers were very beutiful yet cool and the things which got me in was the structure of them can be made through smaller parts. 
-### probelem
+### Probelem being solved
 the probelm in these rovers are that they cant be created with the materials which are present in our room solely we need to buy a lot of minutes and minute hardware products and mechanical parts.
 So, I decided to make something that can be cretaed using jsut a 3d printer and pvc pipes.
 
