@@ -15,6 +15,17 @@ HexaRover is a modular robotics platform built to explore and operate in environ
 Designed with reliability and adaptability in mind, HexaRover serves as a foundation for experimentation in autonomous systems, remote operations, and intelligent robotics. This is a kind of gateway to enter into lego based bot creation by anybody and embedded systems.
 
 ---
+## Inspiration 
+
+I was truly amazed and inpsired from the mars rover made by nasa for the mars exploration and its replica by nasa-jpl which github is given here https://github.com/nasa-jpl/open-source-rover. The rovers were very beutiful yet cool and the things which got me in was the structure of them can be made through smaller parts. 
+### probelem
+the probelm in these rovers are that they cant be created with the materials which are present in our room solely we need to buy a lot of minutes and minute hardware products and mechanical parts.
+So, I decided to make something that can be cretaed using jsut a 3d printer and pvc pipes.
+
+some images of the nasa-jpl rover is given here 
+<img width="2271" height="1587" alt="image" src="https://github.com/user-attachments/assets/721d1d2f-ce41-4f03-93ca-2cf848987bac" />
+<img width="2436" height="1678" alt="image" src="https://github.com/user-attachments/assets/9cd82027-b5a6-45f5-b77a-ba43c23b117d" />
+<img width="2382" height="1376" alt="image" src="https://github.com/user-attachments/assets/9e0a7968-3e3a-4824-86a4-6df885f0ee52" />
 
 ## Mission
 
@@ -81,16 +92,6 @@ If you would like to improve the project:
 Please ensure that all contributions align with the project's objectives and maintain code quality standards.
 
 ---
-
-## Contact And Suggestions
-
-Nerds interested in connecting and exploring more can connect with me give valuable advice take help and suggestions from the followings
-
-Linkedin
-Mail
-Instagram
-Slack
-Lapse
 
 ### Access The Parts From Here-
 
