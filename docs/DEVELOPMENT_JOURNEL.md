@@ -94,18 +94,7 @@ In parallel with hardware development, work began on organizing the project's so
 
 The repository was structured to support future development, collaboration, and reproducibility. Documentation was treated as a core component of the project rather than an afterthought.
 
-The planned repository architecture includes:
 
-```text
-HexaRover/
-├── CAD/
-├── Hardware/
-├── Firmware/
-├── Docs/
-├── Images/
-├── Schematics/
-└── README.md
-```
 
 The goal is to ensure that anyone can reproduce the rover using only the repository contents and commonly available tools.
 
