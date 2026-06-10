@@ -1,4 +1,5 @@
-<img width="1366" height="410" alt="rover" src="https://github.com/user-attachments/assets/5f695190-75a2-45ab-943e-d02b01e556d9" />
+
+<img width="874" height="1240" alt="image" src="https://github.com/user-attachments/assets/06de1a2f-ecca-4e67-a537-fbfd343e56a5" />
 
 ---
 
