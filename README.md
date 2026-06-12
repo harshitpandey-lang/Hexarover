@@ -2,6 +2,7 @@
 <img width="874" height="1240" alt="image" src="https://github.com/user-attachments/assets/06de1a2f-ecca-4e67-a537-fbfd343e56a5" />
 
 ---
+[hexarover zine.pdf](https://github.com/user-attachments/files/28886290/hexarover.zine.pdf)
 
 # HexaRover
 
@@ -75,6 +76,13 @@ HexaRover/
 * Sensor Fusion
 * AI-Assisted Decision Making
 * Multi-Rover Collaboration
+
+## The Design
+
+The Wirring diagram is given here in kicadd and the kicadd file is also attached in this repo, since the design doesnt require any kind of pb so no pcb was designed for this project while the wirring of the componenets is gievn here 
+<img width="703" height="481" alt="{85047B80-3A90-4A06-985E-AE78F9C303FE}" src="https://github.com/user-attachments/assets/d14f5f56-fcff-458e-917c-dc7b31dfbf21" />
+<img width="800" height="600" alt="Untitled - June 03, 2026 at 04 48 04" src="https://github.com/user-attachments/assets/537c3d83-1e28-401a-95ba-3592e1677bda" />
+
 
 ---
 
