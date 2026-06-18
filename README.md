@@ -1,5 +1,4 @@
 
-<img width="874" height="1240" alt="image" src="https://github.com/user-attachments/assets/06de1a2f-ecca-4e67-a537-fbfd343e56a5" />
 
 ---
 [hexarover zine.pdf](https://github.com/user-attachments/files/28886290/hexarover.zine.pdf)
